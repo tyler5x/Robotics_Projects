@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Tyler Smithline and Sankalp Agarwal
+# Tyler Smithline and Sankalp Yamsani
 
 '''
 We get inspirations of Tower of Hanoi algorithm from the website below.
